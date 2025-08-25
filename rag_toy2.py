@@ -83,3 +83,19 @@ if uploaded_file:
 
 else:
     st.info("👆 Upload a `.txt` file to start.")
+
+
+# list of sample questions you can ask your RAG chatbot based on the story.txt?
+# Who was Ravi?
+
+# What happened to Ravi’s crops during the storm?
+
+# How did the villagers help Ravi?
+
+# What lesson did Ravi teach the children?
+
+# Why was Ravi called the farmer with the golden heart?
+
+# What did the villagers do to celebrate?
+
+# How did Ravi’s story spread beyond the village?
