@@ -1,11 +1,11 @@
 # 🤖 RAG Chat Bot with Groq + Streamlit
 
 This is a tiny toy example of a **RAG (Retrieval Augmented Generation)** chatbot built using:
-- [LangChain](https://www.langchain.com/)
-- [Groq LLM](https://groq.com/)
-- [FAISS](https://github.com/facebookresearch/faiss) for vector search
-- [Sentence Transformers](https://www.sbert.net/) for embeddings
-- [Streamlit](https://streamlit.io/) for UI
+- [LangChain]
+- [Groq LLM]
+- [FAISS] for vector search
+- [Sentence Transformers] for embeddings
+- [Streamlit] for UI
 
 ---
 
